@@ -16,20 +16,26 @@ So there is my PKSBoard ( i dont have idea for name)
 <img width="1322" height="508" alt="Zrzut ekranu 2026-02-13 215402" src="https://github.com/user-attachments/assets/094f1590-8f19-401b-849a-25f16a27502f" />
 
 -**MCU:** RP2040-Plus ,  Everyone know wha t mcu is this.
+
 -**PCB:** My own project , Is **65%** size keyboard but i add Function button and Rotery Encoder
 <img width="1029" height="404" alt="Zrzut ekranu 2026-03-26 210054" src="https://github.com/user-attachments/assets/eb169bac-d3ce-451a-b852-ddbeaaca451c" />
 old version
 <img width="1377" height="568" alt="Zrzut ekranu 2026-03-14 180553" src="https://github.com/user-attachments/assets/74dbfc01-2849-4a10-872f-bdc5f61ef686" />
 
--**Switch:** Akko V3 creamy blue is one of best budget switch on the world. its tactical so is silent but you fell click
+-**Switch:** Akko V3 creamy blue is one of best budget switch on the world. its tactical so is silent 
+but you fell click
+
 -**Keycaps.** any random chepest keycaps what i can find to fit in budget
--**Stablizators:**
+
+-**Stablizators:** for keycaps
+
 -**cable** just cable
 there is cart
 
 <img width="900" height="830" alt="Zrzut ekranu 2026-03-26 194902" src="https://github.com/user-attachments/assets/2c094c45-394b-4ad3-a34c-5b7f63216564" />
 
 -**Diods:** i pick that becuse i have footprint only for this one
+
 -**Connector:** to conect it its why is right angle
 there is cart from tme
 
