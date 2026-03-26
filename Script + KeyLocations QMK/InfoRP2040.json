@@ -1,0 +1,24 @@
+{
+    "keyboard_name": "Beta_75_RP2040",
+    "manufacturer": "Beta Rebelii",
+    "url": "",
+    "maintainer": "TwojNick",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0075",
+        "device_version": "1.0.0"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "matrix_pins": {
+        "cols": ["GP0", "GP1", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7", "GP8", "GP9", "GP10", "GP11", "GP12", "GP13", "GP14"],
+        "rows": ["GP15", "GP16", "GP17", "GP18", "GP19", "GP20"]
+    },
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "mousekey": true,
+        "extrakey": true,
+        "nkro": true
+    }
+}
