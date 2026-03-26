@@ -1,5 +1,5 @@
 HI. there is my keyboard
-I made this becuse i need keyboard. my actualy keyboard is 12 years cosaco keyboard what i need use super glue to repeir what.
+I made this becuse i need keyboard. my actualy keyboard is 12 years cosaco keyboard what i need use hot glue to repeir what.
 
 https://cdn.hackclub.com/019d2b1b-f8e5-737e-9864-312083722c59/img_20260326_175041831_mfnr.webp
 https://cdn.hackclub.com/019d2b1b-fbd8-74be-87f8-cf0e68da0405/img_20260326_175053504_mfnr.webp
