@@ -13,19 +13,31 @@ So there is my PKSBoard ( i dont have idea for name)
 It base on most simple things
 
 MCU: RP2040-Plus ,  Everyone know wha t mcu is this.
+
 PCB: My own project , Is **65%** size keyboard but i add Function button and Rotery Encoder
+
 Switch: Akko V3 creamy blue is one of best budget switch on the world. its tactical so is silent but you fell click
+
 Keycaps. any random chepest keycaps what i can find to fit in budget
+
 Stablizators: for keycaps idk
+
 Cable: for connect bruh. 2.54mm
+
 Diods: i pick that becuse i have footprint only for this one
+
 Connector: to conect it its why is right angle
+
 Case: is simple case what i made in Fusion , im not skilled in this so is why is a simple.
 
 i use programs
+
 Kicad: For PCB
+
 Autodesk fusion: For 3D modeling
+
 Paint: for diagram
+
 Google Docs: For BOM
 
 is all i spend aorund 20h on buldi this becuse i spend aorund 7h mcu what i finnaly dont buldi becuse cost. i have all in blueprint site so is why i dont have jounary here. finally my keyboard for me personal is good ( i be happy if it get aproved) 
