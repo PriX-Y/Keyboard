@@ -56,6 +56,12 @@ there is cart from tme
 
 is all i spend aorund 20h on buldi this becuse i spend aorund 7h mcu what i finnaly dont buldi becuse cost. i have all in blueprint site so is why i dont have jounary here. finally my keyboard for me personal is good ( i be happy if it get aproved) 
 
+btw im pass this 
+
+<img width="1180" height="654" alt="image" src="https://github.com/user-attachments/assets/70bf96fe-fe46-47fa-bbdb-6b4069a74467" />
+
+
+
 
 there is one thing what left: BOM ( without link there, link verison is in folder)
 <img width="1004" height="326" alt="Zrzut ekranu 2026-03-25 015506" src="https://github.com/user-attachments/assets/5259f00f-3c3d-47cc-82b4-1be3f98d9d66" />
