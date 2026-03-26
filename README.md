@@ -1,35 +1,35 @@
+Befor. Im from Poland and im dont speak english very well , dont rate grammer :)
+
+
 HI. there is my keyboard
-I made this becuse i need keyboard. my actualy keyboard is 12 years cosaco keyboard what i need use hot glue to repeir what.
+I made this becuse i need keyboard. my actualy keyboard is 12 years: cosaco keyboard what i need use hot glue to repeir what.
 
 https://cdn.hackclub.com/019d2b1b-f8e5-737e-9864-312083722c59/img_20260326_175041831_mfnr.webp
 https://cdn.hackclub.com/019d2b1b-fbd8-74be-87f8-cf0e68da0405/img_20260326_175053504_mfnr.webp
 
-in first plan i wanna to this is be cyberpunk style keyboard but after i see price of the parts ... yeaaa jlpcb eat half of budget im not kidding:
-Merchandise Total
-$18.60
-Shipping Estimate
-$14.26
-Customs duties & taxes
-$7.56
-$40.42
+it still work but Bro . you see how this look , i dont say its bad keyboard for me is fine but i wanna make something own what i be use for next years.
 
-https://cdn.hackclub.com/019d2af6-3f14-7059-841f-15018c34cf8f/zrzut_ekranu_2026-03-25_020523.png
+So there is my PKSBoard ( i dont have idea for name) 
+It base on most simple things
 
-Bruh. i pick this switch becuse is silent but you feel that click - tacticals swich. 
+MCU: RP2040-Plus ,  Everyone know wha t mcu is this.
+PCB: My own project , Is **65%** size keyboard but i add Function button and Rotery Encoder
+Switch: Akko V3 creamy blue is one of best budget switch on the world. its tactical so is silent but you fell click
+Keycaps. any random chepest keycaps what i can find to fit in budget
+Stablizators: for keycaps idk
+Cable: for connect bruh. 2.54mm
+Diods: i pick that becuse i have footprint only for this one
+Connector: to conect it its why is right angle
+Case: is simple case what i made in Fusion , im not skilled in this so is why is a simple.
+
+i use programs
+Kicad: For PCB
+Autodesk fusion: For 3D modeling
+Paint: for diagram
+Google Docs: For BOM
+
+is all i spend aorund 20h on buldi this becuse i spend aorund 7h mcu what i finnaly dont buldi becuse cost. i have all in blueprint site so is why i dont have jounary here. finally my keyboard for me personal is good ( i be happy if it get aproved) 
 
 
-
-befor in my keyboard i use 1x25 but 1mm. i change that but this way i need use this L pins is why i get cable
-
-https://cdn.hackclub.com/019d2af7-3d40-7132-9309-ffa7bff1e6fb/zrzut_ekranu_2026-03-21_235200.png
-
-keycaps is chepest what i can find to fit it budget. uhm stalizators is worth more. yeaaaah
-mcu what is rp2040 i pick becuse is cheap and work fine with qmk. is cheap , is cheap
-that diods is onlu becuse i dont have footprint for normal non sod-123. 
-
-case is simple box i will hot glue all there is not that big 
-
-https://cdn.hackclub.com/019d2af7-3d40-7132-9309-ffa7bff1e6fb/zrzut_ekranu_2026-03-21_235200.png
-
-there is boom
+there is one thing what left: BOM ( without link there, link verison is in folder)
 https://cdn.hackclub.com/019d2af7-3a49-7660-88e7-e84f453c003c/zrzut_ekranu_2026-03-25_015506.png
