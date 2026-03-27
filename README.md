@@ -69,4 +69,4 @@ btw im pass this
 
 
 there is one thing what left: BOM ( without link there, link verison is in folder)
-<img width="1004" height="326" alt="Zrzut ekranu 2026-03-25 015506" src="https://github.com/user-attachments/assets/5259f00f-3c3d-47cc-82b4-1be3f98d9d66" />
+<img width="1788" height="298" alt="image" src="https://github.com/user-attachments/assets/9670b6a1-8fac-49f8-a92a-4df3ce3c52f5" />
