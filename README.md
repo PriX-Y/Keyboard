@@ -13,6 +13,11 @@ it still work but Bro . you see how this look , i dont say its bad keyboard for 
 So there is my PKSBoard ( i dont have idea for name) 
 **It base on most simple things**
 
+<img width="878" height="447" alt="image" src="https://github.com/user-attachments/assets/637e21da-1bf4-4d95-a7d0-86825de01a3e" />
+
+<img width="1117" height="238" alt="image" src="https://github.com/user-attachments/assets/3231adba-6b8a-4317-80ab-0d0d833d337e" />
+
+
 <img width="1322" height="508" alt="Zrzut ekranu 2026-02-13 215402" src="https://github.com/user-attachments/assets/094f1590-8f19-401b-849a-25f16a27502f" />
 
 -**MCU:** RP2040-Plus ,  Everyone know wha t mcu is this.
