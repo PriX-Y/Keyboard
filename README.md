@@ -12,6 +12,7 @@ it still work but Bro . you see how this look , i dont say its bad keyboard for 
 
 So there is my PKSBoard ( i dont have idea for name) 
 **It base on most simple things but becuse i wanna clean 65%+ i need to make Mcu and Key PCB separate**
+ on key pcb you dont see rp2040 its becuse i separte it and is why pick 2.54mm right angle , cable, 
 
 <img width="1112" height="404" alt="Zrzut ekranu 2026-03-27 213238" src="https://github.com/user-attachments/assets/d945b346-7354-4699-bf43-7de679e2e7bb" />
 
