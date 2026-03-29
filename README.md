@@ -11,7 +11,7 @@ I made this becuse i need keyboard. my actualy keyboard is 12 years: cosaco keyb
 it still work but Bro . you see how this look , i dont say its bad keyboard for me is fine but i wanna make something own what i be use for next years.
 
 So there is my PKSBoard ( i dont have idea for name) 
-**It base on most simple things**
+**It base on most simple things but becuse i wanna clean 65%+ i need to make Mcu and Key PCB separate**
 
 <img width="1112" height="404" alt="Zrzut ekranu 2026-03-27 213238" src="https://github.com/user-attachments/assets/d945b346-7354-4699-bf43-7de679e2e7bb" />
 
