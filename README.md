@@ -1,7 +1,7 @@
-Befor. Im from Poland and im dont speak english very well , dont rate grammer :)
+# Befor. Im from Poland and im dont speak english very well , dont rate grammer :)
 
 
-HI. there is my keyboard
+# HI. there is my keyboard
 I made this becuse i need keyboard. my actualy keyboard is 12 years: cosaco keyboard what i need use hot glue to repeir what.
 
 ![IMG_20260326_175041831_MFNR](https://github.com/user-attachments/assets/7ecd1587-5000-4bc7-9fea-fd0a926bf76a)
@@ -10,7 +10,7 @@ I made this becuse i need keyboard. my actualy keyboard is 12 years: cosaco keyb
 
 it still work but Bro . you see how this look , i dont say its bad keyboard for me is fine but i wanna make something own what i be use for next years.
 
-So there is my PKSBoard ( i dont have idea for name) 
+# So there is my PKSBoard ( i dont have idea for name) 
 **It base on most simple things but becuse i wanna clean 65%+ i need to make Mcu and Key PCB separate**
  on key pcb you dont see rp2040 its becuse i separte it and is why pick 2.54mm right angle , cable, 
 
@@ -52,7 +52,7 @@ there is cart from tme
 <img width="1182" height="521" alt="Zrzut ekranu 2026-03-23 025524" src="https://github.com/user-attachments/assets/20020e82-3662-4c67-86b7-05c6a0bba356" />
 
 
-**i use programs:**
+# **i use programs:**
 
 **Kicad:** For PCB
 **Autodesk** fusion: For 3D modeling
@@ -62,12 +62,12 @@ there is cart from tme
 
 is all i spend aorund 20h on buldi this becuse i spend aorund 7h mcu what i finnaly dont buldi becuse cost. i have all in blueprint site so is why i dont have jounary here. finally my keyboard for me personal is good ( i be happy if it get aproved) 
 
-btw im pass this 
+# btw im pass this 
 
 <img width="1180" height="654" alt="image" src="https://github.com/user-attachments/assets/70bf96fe-fe46-47fa-bbdb-6b4069a74467" />
 
 
 
 
-there is one thing what left: BOM ( without link there, link verison is in folder)
+# there is one thing what left: BOM ( without link there, link verison is in folder)
 <img width="1788" height="298" alt="image" src="https://github.com/user-attachments/assets/9670b6a1-8fac-49f8-a92a-4df3ce3c52f5" />
