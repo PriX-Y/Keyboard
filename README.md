@@ -20,7 +20,7 @@ it still work but Bro . you see how this look , i dont say its bad keyboard for 
 
 
 
-
+**Note** im finnaly dont use case becuse i dont have budget left for printing legion
 
 
 **It base on most simple things but becuse i wanna clean 65%+ i need to make Mcu and Key PCB separate**
