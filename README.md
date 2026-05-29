@@ -13,6 +13,8 @@ it still work but Bro . you see how this look , i dont say its bad keyboard for 
 # So there is my PKSBoard ( i dont have idea for name) 
 
 
+<img width="4080" height="2296" alt="1776988882284-g3whwp" src="https://github.com/user-attachments/assets/b9cfada7-da9d-4fb1-a43b-e9ff4005f3d7" />
+
 
 
 
@@ -73,8 +75,6 @@ there is cart from tme
 is all i spend aorund 20h on buldi this becuse i spend aorund 7h mcu what i finnaly dont buldi becuse cost. i have all in blueprint site so is why i dont have jounary here. finally my keyboard for me personal is good ( i be happy if it get aproved) 
 
 # btw im pass this 
-
-<img width="1180" height="654" alt="image" src="https://github.com/user-attachments/assets/70bf96fe-fe46-47fa-bbdb-6b4069a74467" />
 
 
 
