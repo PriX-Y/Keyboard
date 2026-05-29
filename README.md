@@ -11,6 +11,16 @@ I made this becuse i need keyboard. my actualy keyboard is 12 years: cosaco keyb
 it still work but Bro . you see how this look , i dont say its bad keyboard for me is fine but i wanna make something own what i be use for next years.
 
 # So there is my PKSBoard ( i dont have idea for name) 
+
+
+
+
+
+
+
+
+
+
 **It base on most simple things but becuse i wanna clean 65%+ i need to make Mcu and Key PCB separate**
  on key pcb you dont see rp2040 its becuse i separte it and is why pick 2.54mm right angle , cable, 
 
